@@ -29,7 +29,6 @@ return new class extends Migration
             $table->integer('passive_2');
             $table->integer('passive_3');
             $table->integer('passive_4');
-            $table->integer('image_id');
             $table->timestamps();
         });
     }

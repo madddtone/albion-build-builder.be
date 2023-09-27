@@ -18,7 +18,6 @@ return new class extends Migration
             $table->string('slot');
             $table->integer('skill_id');
             $table->integer('weapon_figther_id');
-            $table->integer('image_id');
             $table->timestamps();
         });
     }
