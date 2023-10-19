@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 use App\Models\ScrappedData;
-
 use Illuminate\Http\Request;
 
 class ScrappedDataController extends Controller
